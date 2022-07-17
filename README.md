@@ -1,1 +1,1 @@
-# Texnologies_Logismikou
+# CV app for university purposes
